@@ -1,3 +1,6 @@
+# Compiles
+bin/
+build/
 # Prerequisites
 *.d
 
