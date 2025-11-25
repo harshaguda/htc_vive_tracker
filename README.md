@@ -116,6 +116,6 @@ Check the [HTC_Vive_Tracker developer guidelines](https://dl.vive.com/Tracker/Gu
 The coordinate system **by default** is the following 
 
 
-![htc_original_axis](/uploads/e937a55d83778901d9228423524b4c42/htc_original_axis.png)
+![htc_original_axis](images/htc_original_axis.png)
 
  Poses are provided relative to the safe bounds configured by the user
